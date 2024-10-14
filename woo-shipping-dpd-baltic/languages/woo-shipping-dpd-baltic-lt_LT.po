@@ -1,0 +1,758 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DPD Baltic Shipping\n"
+"POT-Creation-Date: 2020-06-10 12:28+0300\n"
+"PO-Revision-Date: 2020-06-10 12:30+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lt_LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && (n%100<11 || n%100>19) ? 0 : n"
+"%10>=2 && n%10<=9 && (n%100<11 || n%100>19) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: dpd.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-dpd-home-delivery.php:31 admin/class-dpd-home-delivery.php:85
+msgid "DPD home delivery"
+msgstr "DPD pristatymas į namus"
+
+#: admin/class-dpd-home-delivery.php:32
+msgid "DPD home delivery shipping method"
+msgstr "DPD pristatymas į namus"
+
+#: admin/class-dpd-home-delivery.php:107 admin/class-dpd-home-delivery-sat.php:95
+#: admin/class-dpd-parcels.php:110 admin/class-dpd-same-day-delivery.php:97
+#: admin/class-dpd-same-day-parcels:112
+msgid "Minimum order amount for free shipping"
+msgstr "Minimalus užsakymo suma nemokamam pristatymui"
+
+#: admin/class-dpd-home-delivery.php:110 admin/class-dpd-home-delivery-sat.php:98
+#: admin/class-dpd-parcels.php:113 admin/class-dpd-same-day-delivery.php:100
+#: admin/class-dpd-same-day-parcels:115
+msgid "Users have to spend this amount to get free shipping."
+msgstr "Pirkėjas turi išleisti šitą sumą, kad gautų nemokamą pristatymą."
+
+#: admin/class-dpd-home-delivery.php:120 admin/class-dpd-home-delivery-sat.php:108
+#: admin/class-dpd-parcels.php:123 admin/class-dpd-same-day-delivery.php:110
+#: admin/class-dpd-same-day-parcels:125
+msgid "Per order"
+msgstr "Nuo užsakymo"
+
+#: admin/class-dpd-home-delivery.php:121 admin/class-dpd-home-delivery-sat.php:109
+#: admin/class-dpd-parcels.php:124 admin/class-dpd-same-day-delivery.php:111
+#: admin/class-dpd-same-day-parcels:126
+msgid "Weight based"
+msgstr "Pagal svorį"
+
+#: admin/class-dpd-home-delivery.php:125 admin/class-dpd-home-delivery-sat.php:113
+#: admin/class-dpd-parcels.php:128 admin/class-dpd-same-day-delivery.php:115
+#: admin/class-dpd-same-day-parcels:130
+msgid "Rates"
+msgstr "Kainos"
+
+#: admin/class-dpd-home-delivery.php:128 admin/class-dpd-home-delivery-sat.php:116
+#: admin/class-dpd-parcels.php:131 admin/class-dpd-same-day-delivery.php:118
+#: admin/class-dpd-same-day-parcels:133
+msgid "Example: 5:10.00,7:12.00 Weight:Price,Weight:Price, etc..."
+msgstr "Pavyzdžiui: 5:10.00,7:12.00 Svors:Kaina,Svoris:Kaina, ir t.t...."
+
+#: admin/class-dpd-home-delivery.php:338
+msgid "Deliver between: "
+msgstr "Pristatymas tarp "
+
+#: admin/class-dpd-home-delivery-sat.php:29
+msgid "DPD home delivery on Saturday"
+msgstr "DPD pristatymas į namus šeštadienį"
+
+#: admin/class-dpd-home-delivery-sat.php:30
+msgid "DPD home delivery on Saturday shipping method"
+msgstr "DPD pristatymas į namus šeštadienį"
+
+#: admin/class-dpd-home-delivery-sat.php:73
+msgid "DPD home delivery on Saturdays"
+msgstr "DPD pristatymas į namus šeštadienį"
+
+#: admin/class-dpd-home-delivery-sat.php:125 admin/class-dpd-home-delivery-sat.php:155
+#: admin/class-dpd-home-delivery-sat.php:185 admin/class-dpd-home-delivery-sat.php:215
+#: admin/class-dpd-home-delivery-sat.php:245 admin/class-dpd-same-day-delivery.php:141
+#: admin/class-dpd-same-day-delivery.php:171 admin/class-dpd-same-day-delivery.php:201
+#: admin/class-dpd-same-day-delivery.php:231 admin/class-dpd-same-day-delivery.php:261
+#: admin/class-dpd-same-day-parcels:156 admin/class-dpd-same-day-parcels:186
+#: admin/class-dpd-same-day-parcels:216 admin/class-dpd-same-day-parcels:246
+#: admin/class-dpd-same-day-parcels:276
+msgid "Enabled"
+msgstr "Įgalinta"
+
+#: admin/class-dpd-home-delivery-sat.php:128 admin/class-dpd-home-delivery-sat.php:158
+#: admin/class-dpd-home-delivery-sat.php:188 admin/class-dpd-home-delivery-sat.php:218
+#: admin/class-dpd-home-delivery-sat.php:248 admin/class-dpd-same-day-delivery.php:144
+#: admin/class-dpd-same-day-delivery.php:174 admin/class-dpd-same-day-delivery.php:204
+#: admin/class-dpd-same-day-delivery.php:234 admin/class-dpd-same-day-delivery.php:264
+#: admin/class-dpd-same-day-parcels:159 admin/class-dpd-same-day-parcels:189
+#: admin/class-dpd-same-day-parcels:219 admin/class-dpd-same-day-parcels:249
+#: admin/class-dpd-same-day-parcels:279
+msgid "Yes"
+msgstr "Taip"
+
+#: admin/class-dpd-home-delivery-sat.php:131 admin/class-dpd-home-delivery-sat.php:161
+#: admin/class-dpd-home-delivery-sat.php:191 admin/class-dpd-home-delivery-sat.php:221
+#: admin/class-dpd-home-delivery-sat.php:251 admin/class-dpd-same-day-delivery.php:147
+#: admin/class-dpd-same-day-delivery.php:177 admin/class-dpd-same-day-delivery.php:207
+#: admin/class-dpd-same-day-delivery.php:237 admin/class-dpd-same-day-delivery.php:267
+#: admin/class-dpd-same-day-parcels:162 admin/class-dpd-same-day-parcels:192
+#: admin/class-dpd-same-day-parcels:222 admin/class-dpd-same-day-parcels:252
+#: admin/class-dpd-same-day-parcels:282
+msgid "Morning from"
+msgstr "Ryte nuo"
+
+#: admin/class-dpd-home-delivery-sat.php:136 admin/class-dpd-home-delivery-sat.php:166
+#: admin/class-dpd-home-delivery-sat.php:196 admin/class-dpd-home-delivery-sat.php:226
+#: admin/class-dpd-home-delivery-sat.php:256 admin/class-dpd-same-day-delivery.php:152
+#: admin/class-dpd-same-day-delivery.php:182 admin/class-dpd-same-day-delivery.php:212
+#: admin/class-dpd-same-day-delivery.php:242 admin/class-dpd-same-day-delivery.php:272
+#: admin/class-dpd-same-day-parcels:167 admin/class-dpd-same-day-parcels:197
+#: admin/class-dpd-same-day-parcels:227 admin/class-dpd-same-day-parcels:257
+#: admin/class-dpd-same-day-parcels:287
+msgid "Morning to"
+msgstr "Ryte iki"
+
+#: admin/class-dpd-home-delivery-sat.php:141 admin/class-dpd-home-delivery-sat.php:171
+#: admin/class-dpd-home-delivery-sat.php:201 admin/class-dpd-home-delivery-sat.php:231
+#: admin/class-dpd-home-delivery-sat.php:261 admin/class-dpd-same-day-delivery.php:157
+#: admin/class-dpd-same-day-delivery.php:187 admin/class-dpd-same-day-delivery.php:217
+#: admin/class-dpd-same-day-delivery.php:247 admin/class-dpd-same-day-delivery.php:277
+#: admin/class-dpd-same-day-parcels:172 admin/class-dpd-same-day-parcels:202
+#: admin/class-dpd-same-day-parcels:232 admin/class-dpd-same-day-parcels:262
+#: admin/class-dpd-same-day-parcels:292
+msgid "Noon from"
+msgstr "Popiet nuo"
+
+#: admin/class-dpd-home-delivery-sat.php:146 admin/class-dpd-home-delivery-sat.php:176
+#: admin/class-dpd-home-delivery-sat.php:206 admin/class-dpd-home-delivery-sat.php:236
+#: admin/class-dpd-home-delivery-sat.php:266 admin/class-dpd-same-day-delivery.php:162
+#: admin/class-dpd-same-day-delivery.php:192 admin/class-dpd-same-day-delivery.php:222
+#: admin/class-dpd-same-day-delivery.php:252 admin/class-dpd-same-day-delivery.php:282
+#: admin/class-dpd-same-day-parcels:177 admin/class-dpd-same-day-parcels:207
+#: admin/class-dpd-same-day-parcels:237 admin/class-dpd-same-day-parcels:267
+#: admin/class-dpd-same-day-parcels:297
+msgid "Noon to"
+msgstr "Popiet iki"
+
+#: admin/class-dpd-parcels.php:29
+msgid "DPD Pickup points (parcel lockers and -shops)"
+msgstr "DPD Pickup paštomatai"
+
+#: admin/class-dpd-parcels.php:30
+msgid "DPD Pickup points shipping method"
+msgstr "Pristatymas į DPD Pickup paštomatą"
+
+#: admin/class-dpd-parcels.php:60 admin/class-dpd-same-day-parcels:60
+msgid "Selected Pickup Point:"
+msgstr "Pasirinktas DPD Pickup paštomatas:"
+
+#: admin/class-dpd-parcels.php:88
+msgid "DPD Pickup points"
+msgstr "DPD Pickup paštomatai"
+
+#: admin/class-dpd-parcels.php:299 admin/class-dpd-same-day-parcels:539
+msgid "Please select a Pickup Point"
+msgstr "Pasirinkite DPD Pickup paštomatą"
+
+#: admin/class-dpd-same-day-delivery.php:29 admin/class-dpd-same-day-delivery.php:75
+msgid "DPD home delivery on same day"
+msgstr "DPD pristatymas į namus tą pačią dieną"
+
+#: admin/class-dpd-same-day-delivery.php:30
+msgid "DPD home delivery on same day shipping method"
+msgstr "DPD pristatymas į namus tą pačią dieną"
+
+#: admin/class-dpd-same-day-delivery.php:127 admin/class-dpd-same-day-parcels:142
+#, fuzzy
+msgid "Same day text"
+msgstr "Same day text"
+
+#: admin/class-dpd-same-day-delivery.php:129 admin/class-dpd-same-day-parcels:144
+msgid "Today"
+msgstr "Šiandien"
+
+#: admin/class-dpd-same-day-delivery.php:132 admin/class-dpd-same-day-parcels:147
+#, fuzzy
+msgid "Next day text"
+msgstr "Next day text"
+
+#: admin/class-dpd-same-day-delivery.php:134 admin/class-dpd-same-day-parcels:149
+msgid "Tomorrow"
+msgstr "Rytoj"
+
+#: admin/class-dpd-same-day-parcels:29
+msgid "DPD same day to Pickup points (parcel lockers and -shops)"
+msgstr "Pristatymas į DPD Pickup paštomatą tą pačią dieną"
+
+#: admin/class-dpd-same-day-parcels:30
+msgid "DPD same day to Pickup points shipping method (Available only in Riga)"
+msgstr "Pristatymas į DPD Pickup paštomatą tą pačią dieną (tik Rygoje)"
+
+#: admin/class-dpd-same-day-parcels:90
+msgid "DPD same day to Pickup points"
+msgstr "Pristatymas į DPD Pickup paštomatą tą pačią dieną"
+
+#: admin/class-dpd-admin.php:95
+msgid "Request DPD courier"
+msgstr "Iškviesti DPD kurjerį"
+
+#: admin/class-dpd-admin.php:96
+msgid "Close DPD manifest"
+msgstr "Uždaryti DPD siuntų manifestą"
+
+#: admin/class-dpd-admin.php:235
+msgid "Activate document return service?"
+msgstr "Aktyvuoti Dokumentų grąžinimo paslaugą?"
+
+#: admin/class-dpd-admin.php:241
+msgid "Document reference number"
+msgstr "Dokumento nuorodos numeris"
+
+#: admin/class-dpd-admin.php:271
+msgid "Select warehouse:"
+msgstr "Pasirinkti sandėlį:"
+
+#: admin/class-dpd-admin.php:315 admin/class-dpd-admin.php:330
+msgid "Print DPD label"
+msgstr "Spausdinti DPD etiketę"
+
+#: admin/class-dpd-admin.php:318
+msgid "Cancel DPD shipment"
+msgstr "Atšaukti DPD siuntą"
+
+#: admin/class-dpd-admin.php:319
+msgid "Get last parcel status"
+msgstr "Gauti siuntos statusą"
+
+#: admin/class-dpd-admin.php:322
+msgid "Collection request to return from customer"
+msgstr "Siuntos paėmimas iš kliento"
+
+#: admin/class-dpd-admin.php:331
+msgid "Cancel DPD shipments"
+msgstr "Atšaukti DPD siuntas"
+
+#: admin/class-dpd-admin.php:394
+msgid ""
+"Cannot print DPD labels for these orders, because some of orders parcel is "
+"not found."
+msgstr "Nėra galimybės atspausdinti siuntos lipdukų pasirinktiems užsakymams."
+
+#: admin/class-dpd-admin.php:396
+#, php-format
+msgid "DPD label printed for %d order."
+msgid_plural "DPD labels printed for %d orders."
+msgstr[0] "DPD etiketės atspausdintos %d užsakymui."
+msgstr[1] "DPD etiketės atspausdintos %d užsakymams."
+msgstr[2] "DPD etiketės atspausdintos %d užsakymų."
+
+#: admin/class-dpd-admin.php:401
+#, php-format
+msgid "DPD shipment cancelled for %d order."
+msgid_plural "DPD shipments cancelled for %d orders."
+msgstr[0] "DPD siuntos atšauktos %d užsakymui."
+msgstr[1] "DPD siuntos atšauktos %d užsakymams."
+msgstr[2] "DPD siuntos atšauktos %d užsakymų."
+
+#: admin/class-dpd-admin.php:437
+msgid "Cannot print DPD label: Parcel not found"
+msgstr "Nėra galimybės atspausdinti siuntos lipduko: siunta nerasta"
+
+#: admin/class-dpd-admin.php:486
+msgid "The DPD shipment was cancelled for this order!"
+msgstr "DPD siunta buvo atšaukta iš šio užsakymo!"
+
+#: admin/class-dpd-admin.php:505
+msgid "Parcel has been picked up"
+msgstr "Siunta paimta iš siuntėjo"
+
+#: admin/class-dpd-admin.php:507
+msgid "Parcel is at parcel delivery centre"
+msgstr "Siunta yra paskirstymo centre"
+
+#: admin/class-dpd-admin.php:509
+msgid "Parcel is out for delivery"
+msgstr "Siunta yra pristatoma"
+
+#: admin/class-dpd-admin.php:511
+msgid "Additional information added"
+msgstr "Pridėta papildoma informacija"
+
+#: admin/class-dpd-admin.php:513
+msgid "Parcel is successfully delivered"
+msgstr "Siunta pristatyta gavėjui"
+
+#: admin/class-dpd-admin.php:515
+msgid "Delivery obstacle"
+msgstr "Nepavyko pristatyti"
+
+#: admin/class-dpd-admin.php:517 admin/class-dpd-admin.php:522
+msgid "The parcel is not scanned by DPD yet"
+msgstr "Siunta neturi DPD skanų"
+
+#: admin/class-dpd-admin.php:520 admin/class-dpd-admin.php:522
+msgid "Track parcel"
+msgstr "Sekti siuntą"
+
+#: admin/class-dpd-admin.php:818
+msgid "Shipping method is not DPD"
+msgstr "Siuntimo būdas nėra DPD"
+
+#: admin/class-dpd-admin.php:879
+#, php-format
+msgid "DPD Tracking number: %s"
+msgstr "DPD siuntos numeris: %s"
+
+#: admin/class-dpd-admin.php:1156
+msgid "Select warehouse"
+msgstr "Pasirinkti sandėlį"
+
+#: admin/class-dpd-admin.php:1162
+msgid "Comment for courier"
+msgstr "Komentaras kurjeriui"
+
+#: admin/class-dpd-admin.php:1166
+msgid "Pickup date"
+msgstr "Paėmimo data"
+
+#: admin/class-dpd-admin.php:1170
+msgid "Pickup time from"
+msgstr "Paėmimo laikas nuo"
+
+#: admin/class-dpd-admin.php:1174
+msgid "Pickup time until"
+msgstr "Paėmimo laikas iki"
+
+#: admin/class-dpd-admin.php:1178
+msgid "Count of parcels"
+msgstr "Pakuočių skaičius"
+
+#: admin/class-dpd-admin.php:1182
+msgid "Count of pallets"
+msgstr "Palečių skaičius"
+
+#: admin/class-dpd-admin.php:1186
+msgid "Total weight"
+msgstr "Visas svoris"
+
+#: admin/class-dpd-admin.php:1192
+msgid "Request courier pickup"
+msgstr "Iškviesti DPD kurjerį"
+
+#: admin/class-dpd-admin.php:1229
+msgid "Do you really want to close today's manifest?"
+msgstr "Ar tikrai norite uždaryti šios dienos manifestą?"
+
+#: admin/class-dpd-admin.php:1233
+msgid "Close manifest"
+msgstr "Uždaryti siuntų manifestą"
+
+#: admin/partials/dpd-admin-collect-display.php:1
+msgid "Where should we pick up your parcels?"
+msgstr "Iš kur paimti Jūsų siuntas?"
+
+#: admin/partials/dpd-admin-collect-display.php:6
+msgid "Sender name"
+msgstr "Siuntėjo pavadinimas"
+
+#: admin/partials/dpd-admin-collect-display.php:12
+msgid "Sender address"
+msgstr "Siuntėjo adresas"
+
+#: admin/partials/dpd-admin-collect-display.php:18
+msgid "Sender postcode"
+msgstr "Siuntėjo pašto kodas"
+
+#: admin/partials/dpd-admin-collect-display.php:24
+msgid "Sender city"
+msgstr "Siuntėjo miestas"
+
+#: admin/partials/dpd-admin-collect-display.php:30
+msgid "Sender country"
+msgstr "Siuntėjo šalis"
+
+#: admin/partials/dpd-admin-collect-display.php:33
+#: admin/partials/dpd-admin-collect-display.php:87
+#: admin/partials/dpd-admin-warehouses-display.php:11
+#: admin/partials/dpd-admin-warehouses-display.php:28
+msgid "Select country"
+msgstr "Pasirinkti šalį"
+
+#: admin/partials/dpd-admin-collect-display.php:41
+#: admin/partials/dpd-admin-collect-display.php:95
+msgid "Contact person phone number"
+msgstr "Kontaktinio asmens tel. nr"
+
+#: admin/partials/dpd-admin-collect-display.php:47
+#: admin/partials/dpd-admin-collect-display.php:101
+msgid "Contact person email address"
+msgstr "Kontaktinio asmens el. paštas"
+
+#: admin/partials/dpd-admin-collect-display.php:55
+msgid "Where should we deliver your parcels?"
+msgstr "Kur pristatyti Jūsų siuntas?"
+
+#: admin/partials/dpd-admin-collect-display.php:60
+msgid "Recipient name"
+msgstr "Gavėjo pavadinimas"
+
+#: admin/partials/dpd-admin-collect-display.php:66
+msgid "Recipient address"
+msgstr "Gavėjo adresas"
+
+#: admin/partials/dpd-admin-collect-display.php:72
+msgid "Recipient postcode"
+msgstr "Gavėjo pašto kodas"
+
+#: admin/partials/dpd-admin-collect-display.php:78
+msgid "Recipient city"
+msgstr "Gavėjo miestas"
+
+#: admin/partials/dpd-admin-collect-display.php:84
+msgid "Recipient country"
+msgstr "Gavėjo šalis"
+
+#: admin/partials/dpd-admin-collect-display.php:109
+msgid "Details about your parcels/pallets"
+msgstr "Informacija apie siuntas"
+
+#: admin/partials/dpd-admin-collect-display.php:114
+msgid "Enter the amount of parcels/pallets"
+msgstr "Įvesti informacija apie siuntas"
+
+#: admin/partials/dpd-admin-collect-display.php:118
+msgid "Parcels"
+msgstr "Pakuotės"
+
+#: admin/partials/dpd-admin-collect-display.php:124
+msgid "Pallets"
+msgstr "Paletės"
+
+#: admin/partials/dpd-admin-collect-display.php:130
+msgid "Total weight (kg)"
+msgstr "Viso svoris (kg)"
+
+#: admin/partials/dpd-admin-collect-display.php:137
+msgid "Additional information"
+msgstr "Papildoma informacija"
+
+#: admin/partials/dpd-admin-collect-display.php:143
+msgid "Provide your desired pickup date"
+msgstr "Nurodykite pageidaujamą paėmimo datą"
+
+#: admin/partials/dpd-admin-collect-display.php:152
+msgid "Request"
+msgstr "Užsakyti"
+
+#: admin/partials/dpd-admin-manifests-display.php:1
+#: admin/settings/class-dpd-settings.php:34
+msgid "Manifests"
+msgstr "Manifestai"
+
+#: admin/partials/dpd-admin-manifests-display.php:10
+msgid "File name"
+msgstr "Failo pavadinimas"
+
+#: admin/partials/dpd-admin-manifests-display.php:11
+msgid "Date"
+msgstr "Data"
+
+#: admin/partials/dpd-admin-manifests-display.php:21
+msgid "Download"
+msgstr "Atsisiųsti"
+
+#: admin/partials/dpd-admin-warehouses-display.php:6
+#: admin/partials/dpd-admin-warehouses-display.php:23
+msgid "Name"
+msgstr "Pavadinimas"
+
+#: admin/partials/dpd-admin-warehouses-display.php:7
+#: admin/partials/dpd-admin-warehouses-display.php:24
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:111
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:127
+msgid "Address"
+msgstr "Adresas"
+
+#: admin/partials/dpd-admin-warehouses-display.php:8
+#: admin/partials/dpd-admin-warehouses-display.php:25
+msgid "Postcode"
+msgstr "Pašto kodas"
+
+#: admin/partials/dpd-admin-warehouses-display.php:9
+#: admin/partials/dpd-admin-warehouses-display.php:26
+msgid "City"
+msgstr "Miestas"
+
+#: admin/partials/dpd-admin-warehouses-display.php:16
+#: admin/partials/dpd-admin-warehouses-display.php:33
+msgid "Contact person"
+msgstr "Kontaktinis asmuo"
+
+#: admin/partials/dpd-admin-warehouses-display.php:17
+#: admin/partials/dpd-admin-warehouses-display.php:34
+msgid "Phone"
+msgstr "Telefonas"
+
+#: admin/partials/dpd-admin-warehouses-display.php:18
+#: admin/partials/dpd-admin-warehouses-display.php:35
+msgid "Delete"
+msgstr "Ištrinti"
+
+#: admin/partials/dpd-admin-warehouses-display.php:39
+msgid "Add"
+msgstr "Pridėti"
+
+#. Author of the plugin/theme
+#: admin/settings/class-dpd-settings.php:19
+msgid "DPD"
+msgstr "DPD"
+
+#: admin/settings/class-dpd-settings.php:31
+msgid "General"
+msgstr "Bendri nustatymai"
+
+#: admin/settings/class-dpd-settings.php:32
+msgid "Parcels configurations"
+msgstr "Siuntų nustatymai"
+
+#: admin/settings/class-dpd-settings.php:33
+msgid "Warehouses"
+msgstr "Sandėliai"
+
+#: admin/settings/class-dpd-settings.php:35
+msgid "Collection request"
+msgstr "Siuntos paėmimas"
+
+#: admin/settings/class-dpd-settings.php:56
+msgid "Default label format"
+msgstr "Nustatytasis etiketės formatas"
+
+#: admin/settings/class-dpd-settings.php:62
+msgid "A4"
+msgstr "A4"
+
+#: admin/settings/class-dpd-settings.php:63
+msgid "A6"
+msgstr "A6"
+
+#: admin/settings/class-dpd-settings.php:68
+msgid "Parcel distribution"
+msgstr "Siuntų paskirstymas"
+
+#: admin/settings/class-dpd-settings.php:74
+msgid "All products in same parcel"
+msgstr "Visos prekės toje pačioje pakuotėje"
+
+#: admin/settings/class-dpd-settings.php:75
+msgid "Each product as separate parcel"
+msgstr "Skirtingos prekės atskirose pakuotėse"
+
+#: admin/settings/class-dpd-settings.php:76
+msgid "Each product quantity as separate parcel"
+msgstr "Kiekviena prekė atskiroje pakuotėje"
+
+#: admin/settings/class-dpd-settings.php:81
+msgid "Return labels"
+msgstr "Grąžinimo etiketės"
+
+#: admin/settings/class-dpd-settings.php:82
+msgid "Enable printing return labels"
+msgstr "Leisti spausdinti Grąžinimo etiketes"
+
+#: admin/settings/class-dpd-settings.php:89
+msgid "ROD / document return service"
+msgstr "Dokumentų grąžinimo paslauga"
+
+#: admin/settings/class-dpd-settings.php:90
+msgid "Enable ROD / document return service"
+msgstr "Aktyvuoti dokumentų grąžinimo paslaugą"
+
+#: admin/settings/class-dpd-settings.php:166
+msgid "DPD API options"
+msgstr "DPD API nustatymai"
+
+#: admin/settings/class-dpd-settings.php:173
+msgid "DPD API country"
+msgstr "DPD API šalis"
+
+#: admin/settings/class-dpd-settings.php:175
+msgid "Select the DPD office that provided your API credentials."
+msgstr ""
+"Pasirinkite DPD padalinį, su kuriuo turite sutartį ir iš kurio gavote API "
+"prisijungimus."
+
+#: admin/settings/class-dpd-settings.php:187
+msgid "API username"
+msgstr "API vartotojo vardas"
+
+#: admin/settings/class-dpd-settings.php:195
+msgid "API password"
+msgstr "API slaptažodis"
+
+#: admin/settings/class-dpd-settings.php:203
+msgid "Test mode"
+msgstr "Testinė būsena"
+
+#: admin/settings/class-dpd-settings.php:204
+msgid "Enable DPD test mode"
+msgstr "Įjungti testinę būseną"
+
+#: admin/settings/class-dpd-settings.php:208
+msgid ""
+"Enable this if you want your requests to go to DPD's test server. Test "
+"server has separate credentials, ask from your local DPD office if required."
+msgstr ""
+"Įjunkite šią būseną, jei norite siųsti užklausas į testinį DPD serverį. "
+"Testinis serveris turi atskirus prisijungimus, jeigu jų neturite, kreipkitės "
+"į support@dpd.lt."
+
+#: admin/settings/class-dpd-settings.php:212
+msgid "Fetch pickup points lists for these countries"
+msgstr "Atsisiųsti pasirinktų šalių DPD paštomatų sąrašą"
+
+#: admin/settings/class-dpd-settings.php:222
+msgid "Google Maps API key"
+msgstr "Google Maps API key"
+
+#: admin/settings/class-dpd-settings.php:223
+msgid "Get your key"
+msgstr "Gauti Google Maps API key"
+
+#: admin/settings/class-dpd-settings.php:224
+msgid ""
+"Google Maps will be used to suggest a postcode to your customer based on "
+"their address and to display a map of Pickup Points in checkout."
+msgstr ""
+"Google Maps API key reikalingas tam, kad surastume pašto kodą pagal pirkėjo "
+"adresą, taip pat parodyti Pickup siuntų taškus."
+
+#: admin/settings/class-dpd-settings.php:231
+msgid "COD fee"
+msgstr "COD mokestis"
+
+#: admin/settings/class-dpd-settings.php:233
+msgid ""
+"This will add provided fee if cash on delivery is selected as the payment "
+"method in checkout."
+msgstr ""
+"Bus pridėtas nustatytas COD mokestis, jeigu pirkėjas pasirenka COD kaip "
+"mokėjimo metodą."
+
+#: admin/settings/class-dpd-settings.php:240
+msgid "COD percentage fee"
+msgstr "COD procentinis mokestis"
+
+#: admin/settings/class-dpd-settings.php:242
+msgid ""
+"This will add provided fee + percentage fee from goods if cash on delivery "
+"will be selected as payment method."
+msgstr ""
+
+#: includes/class-dpd-baltic-ajax.php:143
+msgid "Courier will arrive from:"
+msgstr "Kurjeris atvyks nuo:"
+
+#: includes/class-dpd-baltic-ajax.php:144
+msgid "until"
+msgstr "iki"
+
+#: includes/class-dpd-baltic-ajax.php:179
+#, php-format
+msgid ""
+"DPD manifest is closed for today's orders that were made up to now. DPD "
+"doesn't require you to print the manifest. If you would like to print the "
+"manifest anyway, go <a href=\"%s\">here</a>."
+msgstr ""
+"DPD manifestas uždarytas visoms siuntoms, kurios buvo sukurtos iki dabar. "
+"DPD nereikalauja pateikti spausdintą manifestą. Jeigu visgi norite turėti "
+"atspausdintą manifestą, spauskite <a href=\"%s\">čia</a>."
+
+#: includes/class-dpd-baltic-ajax.php:347
+msgid ""
+"Your request was sent to DPD and your parcels will be collected. For more "
+"info call DPD."
+msgstr "Jūsų užsakymas paimti siuntas nusiųstas DPD."
+
+#: public/class-dpd-baltic-public.php:297
+msgid "Cash on delivery fee"
+msgstr "COD mokestis"
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:2
+#: public/woocommerce/checkout/form-shipping-dpd-terminals.php:2
+#: public/woocommerce/checkout/form-shipping-dpd-terminals.php:5
+msgid "Choose a Pickup Point"
+msgstr "Pasirinkite DPD Pickup paštomatą"
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:6
+msgid "Show Pickup Points"
+msgstr "Rodyti Pickup taškus"
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:114
+msgid "Search"
+msgstr "Ieškoti"
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:133
+msgid "Working hours"
+msgstr "Darbo valandos"
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:137
+msgid "Monday:"
+msgstr "Pirmadienis:"
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:138
+msgid "Tuesday:"
+msgstr "Antradienis:"
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:139
+msgid "Wednesday:"
+msgstr "Trečiadienis:"
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:140
+msgid "Thursday:"
+msgstr "Ketvirtadienis:"
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:141
+msgid "Friday:"
+msgstr "Penktadienis:"
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:142
+msgid "Saturday:"
+msgstr "Šeštadienis:"
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:143
+msgid "Sunday:"
+msgstr "Sekmadienis:"
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:148
+msgid "Contact"
+msgstr "Kontaktai"
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:155
+msgid "Select"
+msgstr "Pasirinkti"
+
+#: public/woocommerce/checkout/time-frames.php:2
+msgid "Timeframes"
+msgstr "Laiko intervalai"
+
+#~ msgid "Lithuania"
+#~ msgstr "Lietuva"
+
+#~ msgid "Latvia"
+#~ msgstr "Latvija"
+
+#~ msgid "Estonia"
+#~ msgstr "Estija"

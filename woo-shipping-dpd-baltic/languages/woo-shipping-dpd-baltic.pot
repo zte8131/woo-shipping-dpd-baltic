@@ -1,0 +1,668 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: DPD Baltic Shipping\n"
+"POT-Creation-Date: 2020-06-10 12:18+0300\n"
+"PO-Revision-Date: 2018-11-30 16:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: dpd.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-dpd-home-delivery.php:31 admin/class-dpd-home-delivery.php:85
+msgid "DPD home delivery"
+msgstr ""
+
+#: admin/class-dpd-home-delivery.php:32
+msgid "DPD home delivery shipping method"
+msgstr ""
+
+#: admin/class-dpd-home-delivery.php:107 admin/class-dpd-home-delivery-sat.php:95 admin/class-dpd-parcels.php:110 admin/class-dpd-same-day-delivery.php:97 admin/class-dpd-same-day-parcels:112
+msgid "Minimum order amount for free shipping"
+msgstr ""
+
+#: admin/class-dpd-home-delivery.php:110 admin/class-dpd-home-delivery-sat.php:98 admin/class-dpd-parcels.php:113 admin/class-dpd-same-day-delivery.php:100 admin/class-dpd-same-day-parcels:115
+msgid "Users have to spend this amount to get free shipping."
+msgstr ""
+
+#: admin/class-dpd-home-delivery.php:120 admin/class-dpd-home-delivery-sat.php:108 admin/class-dpd-parcels.php:123 admin/class-dpd-same-day-delivery.php:110 admin/class-dpd-same-day-parcels:125
+msgid "Per order"
+msgstr ""
+
+#: admin/class-dpd-home-delivery.php:121 admin/class-dpd-home-delivery-sat.php:109 admin/class-dpd-parcels.php:124 admin/class-dpd-same-day-delivery.php:111 admin/class-dpd-same-day-parcels:126
+msgid "Weight based"
+msgstr ""
+
+#: admin/class-dpd-home-delivery.php:125 admin/class-dpd-home-delivery-sat.php:113 admin/class-dpd-parcels.php:128 admin/class-dpd-same-day-delivery.php:115 admin/class-dpd-same-day-parcels:130
+msgid "Rates"
+msgstr ""
+
+#: admin/class-dpd-home-delivery.php:128 admin/class-dpd-home-delivery-sat.php:116 admin/class-dpd-parcels.php:131 admin/class-dpd-same-day-delivery.php:118 admin/class-dpd-same-day-parcels:133
+msgid "Example: 5:10.00,7:12.00 Weight:Price,Weight:Price, etc..."
+msgstr ""
+
+#: admin/class-dpd-home-delivery.php:338
+msgid "Deliver between: "
+msgstr ""
+
+#: admin/class-dpd-home-delivery-sat.php:29
+msgid "DPD home delivery on Saturday"
+msgstr ""
+
+#: admin/class-dpd-home-delivery-sat.php:30
+msgid "DPD home delivery on Saturday shipping method"
+msgstr ""
+
+#: admin/class-dpd-home-delivery-sat.php:73
+msgid "DPD home delivery on Saturdays"
+msgstr ""
+
+#: admin/class-dpd-home-delivery-sat.php:125 admin/class-dpd-home-delivery-sat.php:155 admin/class-dpd-home-delivery-sat.php:185 admin/class-dpd-home-delivery-sat.php:215
+#: admin/class-dpd-home-delivery-sat.php:245 admin/class-dpd-same-day-delivery.php:141 admin/class-dpd-same-day-delivery.php:171 admin/class-dpd-same-day-delivery.php:201
+#: admin/class-dpd-same-day-delivery.php:231 admin/class-dpd-same-day-delivery.php:261 admin/class-dpd-same-day-parcels:156 admin/class-dpd-same-day-parcels:186
+#: admin/class-dpd-same-day-parcels:216 admin/class-dpd-same-day-parcels:246 admin/class-dpd-same-day-parcels:276
+msgid "Enabled"
+msgstr ""
+
+#: admin/class-dpd-home-delivery-sat.php:128 admin/class-dpd-home-delivery-sat.php:158 admin/class-dpd-home-delivery-sat.php:188 admin/class-dpd-home-delivery-sat.php:218
+#: admin/class-dpd-home-delivery-sat.php:248 admin/class-dpd-same-day-delivery.php:144 admin/class-dpd-same-day-delivery.php:174 admin/class-dpd-same-day-delivery.php:204
+#: admin/class-dpd-same-day-delivery.php:234 admin/class-dpd-same-day-delivery.php:264 admin/class-dpd-same-day-parcels:159 admin/class-dpd-same-day-parcels:189
+#: admin/class-dpd-same-day-parcels:219 admin/class-dpd-same-day-parcels:249 admin/class-dpd-same-day-parcels:279
+msgid "Yes"
+msgstr ""
+
+#: admin/class-dpd-home-delivery-sat.php:131 admin/class-dpd-home-delivery-sat.php:161 admin/class-dpd-home-delivery-sat.php:191 admin/class-dpd-home-delivery-sat.php:221
+#: admin/class-dpd-home-delivery-sat.php:251 admin/class-dpd-same-day-delivery.php:147 admin/class-dpd-same-day-delivery.php:177 admin/class-dpd-same-day-delivery.php:207
+#: admin/class-dpd-same-day-delivery.php:237 admin/class-dpd-same-day-delivery.php:267 admin/class-dpd-same-day-parcels:162 admin/class-dpd-same-day-parcels:192
+#: admin/class-dpd-same-day-parcels:222 admin/class-dpd-same-day-parcels:252 admin/class-dpd-same-day-parcels:282
+msgid "Morning from"
+msgstr ""
+
+#: admin/class-dpd-home-delivery-sat.php:136 admin/class-dpd-home-delivery-sat.php:166 admin/class-dpd-home-delivery-sat.php:196 admin/class-dpd-home-delivery-sat.php:226
+#: admin/class-dpd-home-delivery-sat.php:256 admin/class-dpd-same-day-delivery.php:152 admin/class-dpd-same-day-delivery.php:182 admin/class-dpd-same-day-delivery.php:212
+#: admin/class-dpd-same-day-delivery.php:242 admin/class-dpd-same-day-delivery.php:272 admin/class-dpd-same-day-parcels:167 admin/class-dpd-same-day-parcels:197
+#: admin/class-dpd-same-day-parcels:227 admin/class-dpd-same-day-parcels:257 admin/class-dpd-same-day-parcels:287
+msgid "Morning to"
+msgstr ""
+
+#: admin/class-dpd-home-delivery-sat.php:141 admin/class-dpd-home-delivery-sat.php:171 admin/class-dpd-home-delivery-sat.php:201 admin/class-dpd-home-delivery-sat.php:231
+#: admin/class-dpd-home-delivery-sat.php:261 admin/class-dpd-same-day-delivery.php:157 admin/class-dpd-same-day-delivery.php:187 admin/class-dpd-same-day-delivery.php:217
+#: admin/class-dpd-same-day-delivery.php:247 admin/class-dpd-same-day-delivery.php:277 admin/class-dpd-same-day-parcels:172 admin/class-dpd-same-day-parcels:202
+#: admin/class-dpd-same-day-parcels:232 admin/class-dpd-same-day-parcels:262 admin/class-dpd-same-day-parcels:292
+msgid "Noon from"
+msgstr ""
+
+#: admin/class-dpd-home-delivery-sat.php:146 admin/class-dpd-home-delivery-sat.php:176 admin/class-dpd-home-delivery-sat.php:206 admin/class-dpd-home-delivery-sat.php:236
+#: admin/class-dpd-home-delivery-sat.php:266 admin/class-dpd-same-day-delivery.php:162 admin/class-dpd-same-day-delivery.php:192 admin/class-dpd-same-day-delivery.php:222
+#: admin/class-dpd-same-day-delivery.php:252 admin/class-dpd-same-day-delivery.php:282 admin/class-dpd-same-day-parcels:177 admin/class-dpd-same-day-parcels:207
+#: admin/class-dpd-same-day-parcels:237 admin/class-dpd-same-day-parcels:267 admin/class-dpd-same-day-parcels:297
+msgid "Noon to"
+msgstr ""
+
+#: admin/class-dpd-parcels.php:29
+msgid "DPD Pickup points (parcel lockers and -shops)"
+msgstr ""
+
+#: admin/class-dpd-parcels.php:30
+msgid "DPD Pickup points shipping method"
+msgstr ""
+
+#: admin/class-dpd-parcels.php:60 admin/class-dpd-same-day-parcels:60
+msgid "Selected Pickup Point:"
+msgstr ""
+
+#: admin/class-dpd-parcels.php:88
+msgid "DPD Pickup points"
+msgstr ""
+
+#: admin/class-dpd-parcels.php:299 admin/class-dpd-same-day-parcels:539
+msgid "Please select a Pickup Point"
+msgstr ""
+
+#: admin/class-dpd-same-day-delivery.php:29 admin/class-dpd-same-day-delivery.php:75
+msgid "DPD home delivery on same day"
+msgstr ""
+
+#: admin/class-dpd-same-day-delivery.php:30
+msgid "DPD home delivery on same day shipping method"
+msgstr ""
+
+#: admin/class-dpd-same-day-delivery.php:127 admin/class-dpd-same-day-parcels:142
+msgid "Same day text"
+msgstr ""
+
+#: admin/class-dpd-same-day-delivery.php:129 admin/class-dpd-same-day-parcels:144
+msgid "Today"
+msgstr ""
+
+#: admin/class-dpd-same-day-delivery.php:132 admin/class-dpd-same-day-parcels:147
+msgid "Next day text"
+msgstr ""
+
+#: admin/class-dpd-same-day-delivery.php:134 admin/class-dpd-same-day-parcels:149
+msgid "Tomorrow"
+msgstr ""
+
+#: admin/class-dpd-same-day-parcels:29
+msgid "DPD same day to Pickup points (parcel lockers and -shops)"
+msgstr ""
+
+#: admin/class-dpd-same-day-parcels:30
+msgid "DPD same day to Pickup points shipping method (Available only in Riga)"
+msgstr ""
+
+#: admin/class-dpd-same-day-parcels:90
+msgid "DPD same day to Pickup points"
+msgstr ""
+
+#: admin/class-dpd-admin.php:95
+msgid "Request DPD courier"
+msgstr ""
+
+#: admin/class-dpd-admin.php:96
+msgid "Close DPD manifest"
+msgstr ""
+
+#: admin/class-dpd-admin.php:235
+msgid "Activate document return service?"
+msgstr ""
+
+#: admin/class-dpd-admin.php:241
+msgid "Document reference number"
+msgstr ""
+
+#: admin/class-dpd-admin.php:271
+msgid "Select warehouse:"
+msgstr ""
+
+#: admin/class-dpd-admin.php:315 admin/class-dpd-admin.php:330
+msgid "Print DPD label"
+msgstr ""
+
+#: admin/class-dpd-admin.php:318
+msgid "Cancel DPD shipment"
+msgstr ""
+
+#: admin/class-dpd-admin.php:319
+msgid "Get last parcel status"
+msgstr ""
+
+#: admin/class-dpd-admin.php:322
+msgid "Collection request to return from customer"
+msgstr ""
+
+#: admin/class-dpd-admin.php:331
+msgid "Cancel DPD shipments"
+msgstr ""
+
+#: admin/class-dpd-admin.php:394
+msgid "Cannot print DPD labels for these orders, because some of orders parcel is not found."
+msgstr ""
+
+#: admin/class-dpd-admin.php:396
+#, php-format
+msgid "DPD label printed for %d order."
+msgid_plural "DPD labels printed for %d orders."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-dpd-admin.php:401
+#, php-format
+msgid "DPD shipment cancelled for %d order."
+msgid_plural "DPD shipments cancelled for %d orders."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-dpd-admin.php:437
+msgid "Cannot print DPD label: Parcel not found"
+msgstr ""
+
+#: admin/class-dpd-admin.php:486
+msgid "The DPD shipment was cancelled for this order!"
+msgstr ""
+
+#: admin/class-dpd-admin.php:505
+msgid "Parcel has been picked up"
+msgstr ""
+
+#: admin/class-dpd-admin.php:507
+msgid "Parcel is at parcel delivery centre"
+msgstr ""
+
+#: admin/class-dpd-admin.php:509
+msgid "Parcel is out for delivery"
+msgstr ""
+
+#: admin/class-dpd-admin.php:511
+msgid "Additional information added"
+msgstr ""
+
+#: admin/class-dpd-admin.php:513
+msgid "Parcel is successfully delivered"
+msgstr ""
+
+#: admin/class-dpd-admin.php:515
+msgid "Delivery obstacle"
+msgstr ""
+
+#: admin/class-dpd-admin.php:517 admin/class-dpd-admin.php:522
+msgid "The parcel is not scanned by DPD yet"
+msgstr ""
+
+#: admin/class-dpd-admin.php:520 admin/class-dpd-admin.php:522
+msgid "Track parcel"
+msgstr ""
+
+#: admin/class-dpd-admin.php:818
+msgid "Shipping method is not DPD"
+msgstr ""
+
+#: admin/class-dpd-admin.php:879
+#, php-format
+msgid "DPD Tracking number: %s"
+msgstr ""
+
+#: admin/class-dpd-admin.php:1156
+msgid "Select warehouse"
+msgstr ""
+
+#: admin/class-dpd-admin.php:1162
+msgid "Comment for courier"
+msgstr ""
+
+#: admin/class-dpd-admin.php:1166
+msgid "Pickup date"
+msgstr ""
+
+#: admin/class-dpd-admin.php:1170
+msgid "Pickup time from"
+msgstr ""
+
+#: admin/class-dpd-admin.php:1174
+msgid "Pickup time until"
+msgstr ""
+
+#: admin/class-dpd-admin.php:1178
+msgid "Count of parcels"
+msgstr ""
+
+#: admin/class-dpd-admin.php:1182
+msgid "Count of pallets"
+msgstr ""
+
+#: admin/class-dpd-admin.php:1186
+msgid "Total weight"
+msgstr ""
+
+#: admin/class-dpd-admin.php:1192
+msgid "Request courier pickup"
+msgstr ""
+
+#: admin/class-dpd-admin.php:1229
+msgid "Do you really want to close today's manifest?"
+msgstr ""
+
+#: admin/class-dpd-admin.php:1233
+msgid "Close manifest"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:1
+msgid "Where should we pick up your parcels?"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:6
+msgid "Sender name"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:12
+msgid "Sender address"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:18
+msgid "Sender postcode"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:24
+msgid "Sender city"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:30
+msgid "Sender country"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:33 admin/partials/dpd-admin-collect-display.php:87 admin/partials/dpd-admin-warehouses-display.php:11
+#: admin/partials/dpd-admin-warehouses-display.php:28
+msgid "Select country"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:41 admin/partials/dpd-admin-collect-display.php:95
+msgid "Contact person phone number"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:47 admin/partials/dpd-admin-collect-display.php:101
+msgid "Contact person email address"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:55
+msgid "Where should we deliver your parcels?"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:60
+msgid "Recipient name"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:66
+msgid "Recipient address"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:72
+msgid "Recipient postcode"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:78
+msgid "Recipient city"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:84
+msgid "Recipient country"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:109
+msgid "Details about your parcels/pallets"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:114
+msgid "Enter the amount of parcels/pallets"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:118
+msgid "Parcels"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:124
+msgid "Pallets"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:130
+msgid "Total weight (kg)"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:137
+msgid "Additional information"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:143
+msgid "Provide your desired pickup date"
+msgstr ""
+
+#: admin/partials/dpd-admin-collect-display.php:152
+msgid "Request"
+msgstr ""
+
+#: admin/partials/dpd-admin-manifests-display.php:1 admin/settings/class-dpd-settings.php:34
+msgid "Manifests"
+msgstr ""
+
+#: admin/partials/dpd-admin-manifests-display.php:10
+msgid "File name"
+msgstr ""
+
+#: admin/partials/dpd-admin-manifests-display.php:11
+msgid "Date"
+msgstr ""
+
+#: admin/partials/dpd-admin-manifests-display.php:21
+msgid "Download"
+msgstr ""
+
+#: admin/partials/dpd-admin-warehouses-display.php:6 admin/partials/dpd-admin-warehouses-display.php:23
+msgid "Name"
+msgstr ""
+
+#: admin/partials/dpd-admin-warehouses-display.php:7 admin/partials/dpd-admin-warehouses-display.php:24
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:111 public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:127
+msgid "Address"
+msgstr ""
+
+#: admin/partials/dpd-admin-warehouses-display.php:8 admin/partials/dpd-admin-warehouses-display.php:25
+msgid "Postcode"
+msgstr ""
+
+#: admin/partials/dpd-admin-warehouses-display.php:9 admin/partials/dpd-admin-warehouses-display.php:26
+msgid "City"
+msgstr ""
+
+#: admin/partials/dpd-admin-warehouses-display.php:16 admin/partials/dpd-admin-warehouses-display.php:33
+msgid "Contact person"
+msgstr ""
+
+#: admin/partials/dpd-admin-warehouses-display.php:17 admin/partials/dpd-admin-warehouses-display.php:34
+msgid "Phone"
+msgstr ""
+
+#: admin/partials/dpd-admin-warehouses-display.php:18 admin/partials/dpd-admin-warehouses-display.php:35
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/dpd-admin-warehouses-display.php:39
+msgid "Add"
+msgstr ""
+
+#. Author of the plugin/theme
+#: admin/settings/class-dpd-settings.php:19
+msgid "DPD"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:31
+msgid "General"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:32
+msgid "Parcels configurations"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:33
+msgid "Warehouses"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:35
+msgid "Collection request"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:56
+msgid "Default label format"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:62
+msgid "A4"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:63
+msgid "A6"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:68
+msgid "Parcel distribution"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:74
+msgid "All products in same parcel"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:75
+msgid "Each product as separate parcel"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:76
+msgid "Each product quantity as separate parcel"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:81
+msgid "Return labels"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:82
+msgid "Enable printing return labels"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:89
+msgid "ROD / document return service"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:90
+msgid "Enable ROD / document return service"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:166
+msgid "DPD API options"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:173
+msgid "DPD API country"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:175
+msgid "Select the DPD office that provided your API credentials."
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:187
+msgid "API username"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:195
+msgid "API password"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:203
+msgid "Test mode"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:204
+msgid "Enable DPD test mode"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:208
+msgid "Enable this if you want your requests to go to DPD's test server. Test server has separate credentials, ask from your local DPD office if required."
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:212
+msgid "Fetch pickup points lists for these countries"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:222
+msgid "Google Maps API key"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:223
+msgid "Get your key"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:224
+msgid "Google Maps will be used to suggest a postcode to your customer based on their address and to display a map of Pickup Points in checkout."
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:231
+msgid "COD fee"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:233
+msgid "This will add provided fee if cash on delivery is selected as the payment method in checkout."
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:240
+msgid "COD percentage fee"
+msgstr ""
+
+#: admin/settings/class-dpd-settings.php:242
+msgid "This will add provided fee + percentage fee from goods if cash on delivery will be selected as payment method."
+msgstr ""
+
+#: includes/class-dpd-baltic-ajax.php:143
+msgid "Courier will arrive from:"
+msgstr ""
+
+#: includes/class-dpd-baltic-ajax.php:144
+msgid "until"
+msgstr ""
+
+#: includes/class-dpd-baltic-ajax.php:179
+#, php-format
+msgid ""
+"DPD manifest is closed for today's orders that were made up to now. DPD doesn't require you to print the manifest. If you would like to print the "
+"manifest anyway, go <a href=\"%s\">here</a>."
+msgstr ""
+
+#: includes/class-dpd-baltic-ajax.php:347
+msgid "Your request was sent to DPD and your parcels will be collected. For more info call DPD."
+msgstr ""
+
+#: public/class-dpd-baltic-public.php:297
+msgid "Cash on delivery fee"
+msgstr ""
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:2 public/woocommerce/checkout/form-shipping-dpd-terminals.php:2
+#: public/woocommerce/checkout/form-shipping-dpd-terminals.php:5
+msgid "Choose a Pickup Point"
+msgstr ""
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:6
+msgid "Show Pickup Points"
+msgstr ""
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:114
+msgid "Search"
+msgstr ""
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:133
+msgid "Working hours"
+msgstr ""
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:137
+msgid "Monday:"
+msgstr ""
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:138
+msgid "Tuesday:"
+msgstr ""
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:139
+msgid "Wednesday:"
+msgstr ""
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:140
+msgid "Thursday:"
+msgstr ""
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:141
+msgid "Friday:"
+msgstr ""
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:142
+msgid "Saturday:"
+msgstr ""
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:143
+msgid "Sunday:"
+msgstr ""
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:148
+msgid "Contact"
+msgstr ""
+
+#: public/woocommerce/checkout/form-shipping-dpd-terminals-with-map.php:155
+msgid "Select"
+msgstr ""
+
+#: public/woocommerce/checkout/time-frames.php:2
+msgid "Timeframes"
+msgstr ""
